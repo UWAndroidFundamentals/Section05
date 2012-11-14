@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Lab0501</string>
+    <string name="current_message">Waiting for thread to complete.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_lab0501">Lab0501</string>
+
+</resources>

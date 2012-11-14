@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Lab0508</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_lab0508">Lab0508</string>
+
+</resources>

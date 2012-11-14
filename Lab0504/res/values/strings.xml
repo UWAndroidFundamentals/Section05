@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Lab0504</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_lab0504">Lab0504</string>
+	<string name="plus">plus</string>
+	<string name="equals">equals</string>
+	<string name="calculate">calculate</string>
+</resources>
